@@ -63,13 +63,11 @@
 
 
 # About Me:
-My name is Tejas Shirsath. I'm from India, passionate about technology and innovation. I love working on cool and innovative projects that push the boundaries of technology. My interests include:
-- Automation Tools
-- Web Development
+My name is Tejas Shirsath. I'm from India, passionate about technology and innovation. I love working on cool and innovative projects that push the boundaries of technology.
 
 ## 🎓 Education
 
-- **B.E in Information Technology | TE**  
+- **B.E in Information Technology | Final Year**  
   *Atharva College of Engineering, Malad, Mumbai*  
   *Sep 2023 - 2026* - Pursuing
 
@@ -86,15 +84,3 @@ My name is Tejas Shirsath. I'm from India, passionate about technology and innov
 **Web Developer | Google Developer Student Clubs (GDSC)**  
 - Member of the GDSC Web Team.  
 - Contributed to building and optimizing web solutions for the club's initiatives.  
-
-## 🛠️ Skills
-
-- **Language:** JavaScript, Java, Python, Dart, C, C++
-- **Framework:** Flask, ExpressJS
-- **Library:** OpenCV, ReactJS, Tailwind CSS, Bootstrap
-- **Backend:** NodeJS, ExpressJS
-- **Database:** MySQL, MongoDB
-- **Tools:** Git, GitHub
-- **OS:** Kali Linux, Ubuntu
-- **Other:** Android Development (Java)
-
