@@ -60,27 +60,3 @@
 <img src="https://raw.githubusercontent.com/tejasshirsath/tejasshirsath/output/snake.svg" alt="Snake animation" align="center" />
 
 ###
-
-
-# About Me:
-My name is Tejas Shirsath. I'm from India, passionate about technology and innovation. I love working on cool and innovative projects that push the boundaries of technology.
-
-## 🎓 Education
-
-- **B.E in Information Technology | Final Year**  
-  *Atharva College of Engineering, Malad, Mumbai*  
-  *Sep 2023 - 2026* - Pursuing
-
-- **Diploma in Computer Engineering**  
-  *Pravin Patil Diploma College of Engineering, Bhayandar*  
-  *Dec 2020 – June 2023* – 83.89%
-
-## 💼 Experience
-
-**Web Developer Intern | Sukre Dental Clinic**  
-*July 4, 2022 – August 13, 2022*
-
-## 🤝 Volunteering  
-**Web Developer | Google Developer Student Clubs (GDSC)**  
-- Member of the GDSC Web Team.  
-- Contributed to building and optimizing web solutions for the club's initiatives.  
